@@ -1,3 +1,4 @@
 
 
-<img src="code_generator_demo.gif">
+<img src="code_demo.gif">
+
